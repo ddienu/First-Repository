@@ -1,2 +1,2 @@
-# Primer repositorio
-Primer repositorio desde vscode.
+# First repository
+First repository from vscode 
